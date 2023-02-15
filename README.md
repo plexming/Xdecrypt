@@ -12,9 +12,9 @@ D:\Xdecrypt\dist>Xdecrypt.exe
 找到.xsh文件：
 ['新建会话.xsh']
 --------------------
-Host：139.196.93.196
+Host：xxx.xxx.xx.xxx
 用户名：root
-密码：AK65387594g
+密码：xxxxxxxxxxxxx
 --------------------
 
 ```
@@ -25,9 +25,9 @@ D:\Xdecrypt\dist>Xdecrypt.exe -p "C:/Users/Lenovo/Documents/NetSarang Computer/7
 找到.xsh文件：
 ['新建会话.xsh']
 --------------------
-Host：139.196.93.196
+Host：xxx.xxx.xx.xxx
 用户名：root
-密码：AK65387594g
+密码：xxxxxxxxx
 --------------------
 
 ```
